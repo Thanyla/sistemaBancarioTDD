@@ -1,3 +1,5 @@
+image:https://img.shields.io/travis/Thanyla/sistemaBancarioTDD.svg[Travis (.org)]
+
 = Projeto de Sistema Bancário para Inclusão de Testes Unitários
 
 
